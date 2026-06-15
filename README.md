@@ -238,6 +238,4 @@ MIT © 2025 — feel free to fork, extend, and build on top of BEagent.
 
 ---
 
-<div align="center">
-  Made with ❤️ · Powered by <a href="https://openrouter.ai">OpenRouter</a>
-</div>
+
