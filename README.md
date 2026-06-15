@@ -232,10 +232,5 @@ Interactive docs available at **http://localhost:8000/docs**
 
 ---
 
-## 📄 License
-
-MIT © 2025 — feel free to fork, extend, and build on top of BEagent.
-
----
 
 
